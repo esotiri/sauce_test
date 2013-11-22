@@ -1,4 +1,4 @@
 sauce_test
 ==========
 
-I am testing dvn on saucelabs with webdriver and python. 
+I am testing dvn on saucelabs with selenium webdriver and python. 
