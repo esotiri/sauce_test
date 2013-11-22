@@ -6,7 +6,7 @@ class AccessDVN(unittest.TestCase):
 
     def setUp(self):
         desired_capabilities = webdriver.DesiredCapabilities.FIREFOX
-        desired_capabilities['version'] = '25'
+        desired_capabilities['version'] = '24'
         desired_capabilities['platform'] = 'Linux'
         desired_capabilities['name'] = 'Testing Selenium 2 in Python at Sauce'
 
